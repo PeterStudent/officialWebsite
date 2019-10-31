@@ -1,0 +1,463 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: 'Microsoft Yahei';
+}
+.digbu
+{
+	width: 100%;
+	height: 55px;
+	
+}
+.digbu img
+{
+	float: left;
+	margin-left: 15px;
+	margin-top: 16px;
+	    cursor: pointer;
+}
+
+.waikuang
+{
+	height: 55px;
+	width: 675px;
+	float: left;
+	    cursor: pointer;
+}
+.daohang
+{
+	float: left;
+	height: 55px;
+	line-height: 55px;
+	width: 107px;
+	text-align: center;
+	font-size: 13px;
+	font-weight: bold;
+}
+.geren
+{
+	width: 119px;
+	height: 55px;
+	float: right;
+	margin-right: 16px;
+	line-height: 55px;
+	color: #999;
+	cursor: pointer;
+}
+.geren a
+{
+	text-decoration: none;
+	color: #999;
+	font-size: 13px;
+}
+.zhongjian
+{
+	height: 440px;
+	width: 1190px;
+	border: 1px solid #999;
+	margin: 0 auto;
+	background: url("images/fj_002.png");
+}
+.search_menu
+{
+	height: 440px;
+	width: 240px;
+	background: rgba(0,0,0,0.5);
+	color: #fff;
+}
+.zuobiao
+{
+	list-style: none;
+}
+.search_menu li
+{
+	height: 89px;
+}
+.kuang
+{
+	height: 83px;
+	width: 200px;
+	border-bottom: 0.5px solid #39363d;
+	margin: 0 auto;
+	font-family: 'Microsoft Yahei'
+}
+.timu
+{
+	padding-top: 32px;
+	font-size: 14px;
+	 cursor: pointer;
+}
+.kuang a
+{
+	font-size: 12px;
+}
+.employment
+{
+	width: 1193px;
+	height: 414px;
+	margin: 0 auto;
+}
+.biaoti
+{
+	height: 60px;
+	width: 100%;
+	line-height: 60px;
+}
+.zuobian
+{
+	
+	float: left;
+}
+.youbian
+{
+	float: right;
+	font-size: 13px;
+}
+.kuai
+{
+	height: 353px;
+	width: 391px;
+	background: #f2f2f2;
+	float: left;
+	cursor: pointer;
+}
+.kuai img
+{
+	height: 183px;
+	width: 100%;
+}
+.kuai_title
+{
+	height: 30px;
+	line-height: 30px;
+	margin-left: 18px;
+	margin-top: 37px;
+}
+.text
+{
+	font-size: 13px;
+	height: 30px;
+	line-height: 30px;
+	margin-left: 18px;
+}
+.text span
+{
+	color: #d84c29;
+}
+.text2
+{
+	height: 30px;
+	line-height: 30px;
+	margin-top: 20px;
+	font-size: 13px;
+	color: #999999;
+	margin-left: 18px;
+}
+.kechengku
+{
+	width: 1193px;
+	height: 700px;
+	margin: 0 auto;
+	margin-top: 25px;
+}
+.fangxiang
+{
+	width: 297px;
+	height: 63px;
+	background:#f2f2f2;
+	text-align: center;
+	float: left;
+	line-height: 63px;
+	margin-right: 1px;
+	cursor: pointer;
+}
+.kecheng
+{
+	width: 290px;
+	height: 267px;
+	background:#f2f2f2;
+	float: left;
+	margin-top: 15px;
+	cursor: pointer;
+}
+.kecheng img
+{
+	height: 183px;
+	width: 100%;
+}
+.kename
+{
+	line-height: 20px;
+	height: 20px;
+	margin-top: 17px;
+	margin-left: 18px;
+	font-size: 13px;
+}
+.kecount
+{
+	height: 20px;
+	line-height: 20px;
+	color: #999;
+	font-size: 13px;
+	margin-top: 10px;
+	margin-left: 18px;
+}
+.xueyuan
+{
+	width: 1193px;
+	height: 494px;
+	margin: 0 auto;
+	margin-top: 25px;
+}
+.anli
+{
+	height: 413px;
+	width: 591px;
+	float: left;
+	background: #f2f2f2;
+}
+.anli img
+{
+	width: 100%;
+	height: 327px;
+}
+.anli2
+{
+	height: 413px;
+	width: 591px;
+	float: left;
+	
+}
+.anli_title
+{
+	height: 20px;
+	margin-top: 22px;
+	margin-left: 25px;
+}
+.anli_neirong
+{
+	float: left;
+	width: 505px;
+	height: 89px;
+	margin-top: -5px;
+}
+.anli_text
+{
+	height: 20px;
+	font-size: 13px;
+	color: #999;
+	margin-top: 9px;
+	margin-left: 25px;
+}
+.xuesheng
+{
+	width: 100%;
+	height: 130px;
+	background:#f2f2f2;
+	float: left;
+}
+.xuesheng img
+{
+	width: 219px;
+	height: 100%;
+	float: left;
+}
+.you_text
+{
+	height: 112px;
+	width: 345p;
+	float: left;
+}
+.student_name
+{
+	height: 20px;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+.gangwei
+{
+	font-size: 13px;
+	color: #999;
+	margin-top: 14px;
+	margin-left: 20px;
+}
+.universities
+{
+	width: 1193px;
+	height: 360px;
+	margin: 0 auto;
+	margin-top: 25px;
+}
+.xuexiao
+{
+	height: 93px;
+	width: 296px;
+	border: 1px solid #f2f2f2;
+	float: left;
+	text-align: center;
+}
+.xuexiao img
+{
+	height: 90px;
+	margin: 0 auto;
+}
+.cooperation
+{
+	width: 1193px;
+	height: 175px;
+	margin: 0 auto;
+	margin-top: 25px;
+	
+}
+.qiye
+{
+	width: 288px;
+	height: 82px;
+	float: left;
+	border: 1px solid #f2f2f2;
+}
+.qiye img
+{
+	width:100%;
+	height: 100%;
+}
+.dibu
+{
+	width: 1193px;
+	height: 494px;
+	margin: 0 auto;
+	margin-top: 25px;
+}
+.tese
+{
+	height: 105px;
+}
+.each span
+{
+	background: url("images/AEGMtbfu8vdjAAAAAElFTkSuQmCC.png") no-repeat 0px 4px;
+	height: 43px;
+	width: 39px;
+	display: inline-block;
+}
+.each span
+{
+	background: url("images/AEGMtbfu8vdjAAAAAElFTkSuQmCC.png") no-repeat 0px 4px;
+	height: 43px;
+	width: 39px;
+	display: inline-block;
+}
+
+.each
+{
+	height: 50px;
+	line-height: 50px;
+	width: 177px;
+	border-right: 1px solid #eaeaea;
+	list-style-type: none;
+	float: left;
+	margin-left: 20px;
+}
+.each span
+{
+	float: left;
+}
+.each li
+{
+	float: left;
+}
+#yi
+{
+	background: url("images/AEGMtbfu8vdjAAAAAElFTkSuQmCC.png") no-repeat -32px 4px;
+	height: 43px;
+	width: 39px;
+	display: inline-block;
+}
+#er
+{
+	background: url("images/AEGMtbfu8vdjAAAAAElFTkSuQmCC.png") no-repeat -81px 4px;
+	height: 43px;
+	width: 39px;
+	display: inline-block;
+}
+#san
+{
+	background: url("images/AEGMtbfu8vdjAAAAAElFTkSuQmCC.png") no-repeat -122px 4px;
+	height: 43px;
+	width: 39px;
+	display: inline-block;
+}
+#four
+{
+	background: url("images/AEGMtbfu8vdjAAAAAElFTkSuQmCC.png") no-repeat -154px 4px;
+	height: 43px;
+	width: 39px;
+	display: inline-block;
+}
+#five
+{
+	background: url("images/AEGMtbfu8vdjAAAAAElFTkSuQmCC.png") no-repeat 0px -42px;
+	height: 43px;
+	width: 39px;
+	display: inline-block;
+}
+.guanyu
+{
+	width: 1193px;
+	height: 241px;
+	margin: 0 auto;
+	margin-top: 25px;
+}
+.lianjie
+{
+	width: 823px;
+	height: 181px;
+	margin-top: 15px;
+	border-right: 1px solid #eaeaea;
+	float: left;
+}
+.icon
+{
+	width: 360px;
+	height: 181px;
+	margin-top: 15px;
+	float: left;
+}
+.lianjie dl 
+{
+	float: left;
+	margin-right: 99px;
+}
+.lianjie dl dt
+{
+	font-size: 15px;
+	margin-bottom: 10px;
+	color: #444;
+}
+.lianjie dl dd
+{
+	font-size: 12px;
+	color: #999;
+	margin-bottom: 10px;
+	
+}
+.app
+{
+	float: left;
+	margin-left:35px;
+	margin-top: 15px;
+	text-align: center;
+	margin-right: 35px;
+}
+.kouyu ,.company,.beian
+{
+	text-align: center;
+	color: #999;
+	margin-bottom: 20px;
+}
+.beian span
+{
+	background: url("images/H8ALiI3EysggNoAAAAASUVORK5CYII=.png");
+	width: 20px;
+	height: 20px;
+	display: inline-block;
+}

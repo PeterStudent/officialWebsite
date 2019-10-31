@@ -1,0 +1,166 @@
+*{
+	background: url("images/login_bg.jpg");
+	background-repeat:no-repeat ;
+	margin: 0;
+	padding: 0;
+}
+.dingbu
+{
+	width: 100%;
+	height: 62px;
+	background: #000;
+}
+.dingbu a
+{
+	background: url("images/JMaVn1zA8AAAAASUVORK5CYII=.png") no-repeat;
+	width: 101px;
+	height: 29px;
+	display: inline-block;
+	margin-left: 172px;
+	margin-top: 15px;
+	cursor:pointer;//鼠标指着变成小手
+	
+}
+.zhongjian
+{
+	height: 555px;
+	width: 493px;
+	margin: 0 auto;
+	margin-top: 67px;
+	background: #fff;
+	text-align: center;
+}
+.biaoti
+{
+	height: 117px;
+	text-align: center;
+	line-height: 117px;
+	background: #fff;
+	font-size: 24px;
+	font-weight: bold;
+}
+input
+{
+	display: block;
+	background: #fff;
+	width: 251px;
+	height: 45px;
+	margin: 0 auto;
+}
+.zhanghao
+{
+	background: url(images/sprite.png) 2px -54px no-repeat;
+	width: 40px;
+	height: 35px;
+}
+.denglu
+{
+	height: 47px;
+	width: 310px;
+	background: #000;
+	line-height: 47px;
+	text-align: center;
+	color: #fff;
+	font-size: 18px;
+	margin-top: 14px;
+	margin-left: 95px;
+	cursor:pointer;//鼠标指着变成小手
+}
+.qqlog
+{
+	background: url("images/sprite.png") -0px -96px;
+	width: 100px;
+	height: 30px;
+	margin-top: 18px;
+	margin-left: 146px;
+	float: left;
+	cursor:pointer;//鼠标指着变成小手
+}
+.wechatlog
+{
+	background: url("images/sprite.png") -0px -127px;
+	width: 100px;
+	height: 30px;
+	margin-top: 18px;
+	float: left;
+	cursor:pointer;//鼠标指着变成小手
+}
+.zhuce
+{
+	height: 66px;
+	width: 311px;
+	text-align: center;
+	line-height: 66px;
+	margin-top: 20px;
+	background: #fff;
+	font-weight: bold;
+	margin-left: 95px;
+	cursor:pointer;//鼠标指着变成小手
+}
+.forget
+{
+	font-size: 12px;
+	height: 16px;
+	margin-left: 195px;
+	font-weight: bold;
+	background: #fff;
+	margin-top: 5px;
+	cursor:pointer;//鼠标指着变成小手
+}
+.order {
+	margin-top: 90px;
+   text-align: center;
+   background: #fff;
+}
+ .order .line {
+   display: inline-block;
+   width: 150px;
+   border-top: 1px solid #ccc ;
+}
+.order .txt {
+   color: #686868;
+   vertical-align: middle;
+   }
+/* .or
+{
+	background: #fff;
+	width: 40px;
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+	top: 600px;
+}
+ .or .line {
+   display: inline-block;
+   width: 150px;
+   border-top: 1px solid #ccc ;
+   float:left;
+} */
+.dibu
+{
+	position: absolute;
+	width: 100%;
+	height: 50px;
+	background: #000000;
+	color: #999;
+	font-weight: bold;
+	bottom: 0;
+}
+.ziti
+{
+	background: #000;
+	color: #999;
+	margin-top:10px;
+	height: 50px;
+	line-height: 50px;
+	font-size: 12px;
+	border-right:1px solid #99855a ;
+	width: 100px;
+	text-align: center;
+	cursor:pointer;//鼠标指着变成小手
+}
+.zhuce a{
+	text-decoration: none;
+	background: #fff;
+	color: #000;
+}

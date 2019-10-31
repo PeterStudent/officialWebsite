@@ -1,0 +1,149 @@
+*{
+	background: url("images/login_bg.jpg");
+	background-repeat:no-repeat ;
+	margin: 0;
+	padding: 0;
+}
+.dingbu
+{
+	width: 100%;
+	height: 62px;
+	background: #000;
+}
+.dingbu a
+{
+	background: url("images/JMaVn1zA8AAAAASUVORK5CYII=.png") no-repeat;
+	width: 101px;
+	height: 29px;
+	display: inline-block;
+	margin-left: 172px;
+	margin-top: 15px;
+	cursor:pointer;//鼠标指着变成小手
+}
+.zhongjian
+{
+	height: 555px;
+	width: 493px;
+	margin: 0 auto;
+	margin-top: 67px;
+	background: #fff;
+	text-align: center;
+}
+.biaoti
+{
+	height: 117px;
+	text-align: center;
+	line-height: 117px;
+	background: #fff;
+	font-size: 24px;
+	font-weight: bold;
+}
+input
+{
+	display: block;
+	background: #fff;
+	width: 251px;
+	height: 45px;
+	margin: 0 auto;
+}
+.yanzheng
+{
+	background: #fff;
+	width: 251px;
+	height: 45px;
+	margin: 0 auto;
+	border: 1px solid #a9a9a9;
+	line-height: 45px;
+}
+.yanzheng a
+{
+	color: a9a9a9;
+	font-size: 13px;
+	float: left;
+	background: #fff;
+}
+.yanzheng img
+{
+	margin-top:5px;
+	float: right;
+}
+.yanzheng span
+{
+	margin-top:5px;
+	float: right;
+	width: 40px;
+	height: 35px;
+	background: url("images/sprite.png") -44px -158px;
+}
+.huoqu
+{
+	height: 35px;
+	width: 86px;
+	background: #000;
+	color: #fff;
+	font-size: 13px;
+	line-height: 35px;
+	float: right;
+	text-align: center;
+	margin-top:5px;
+}
+.or
+{
+	background: #fff;
+	width: 40px;
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+	position: absolute;
+	left: 939px;
+	top: 600px;
+}
+.dibu
+{
+	position: absolute;
+	width: 100%;
+	height: 50px;
+	background: #000000;
+	color: #999;
+	font-weight: bold;
+	bottom: 0;
+}
+.ziti
+{
+	background: #000;
+	color: #999;
+	margin-top:10px;
+	height: 50px;
+	line-height: 50px;
+	font-size: 12px;
+	border-right:1px solid #99855a ;
+	width: 100px;
+	text-align: center;
+}
+.zhuce
+{
+	height: 47px;
+	width: 310px;
+	line-height: 47px;
+	text-align: center;
+	background: #000;
+	color: #fff;
+	margin: 0 auto;
+}
+.zhuce1
+{
+	height: 66px;
+	width: 311px;
+	text-align: center;
+	line-height: 66px;
+	margin-top: 32px;
+	background: #fff;
+	border-top:1px solid #e4e4e4 ;
+	font-weight: bold;
+	margin-left: 95px;
+}
+.zhuce1 a{
+	text-decoration: none;
+	background: #fff;
+	color: #000;
+}
